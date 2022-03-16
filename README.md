@@ -14,3 +14,6 @@ Simple interface look like:
 ![Screenshot - 2022-03-16T121710 845](https://user-images.githubusercontent.com/20610334/158578432-a203ef69-1033-407b-931a-ed285e3cf3de.png)
 
 Could be used like package for composer.
+
+composer require r90/ffcurrencytest
+link: https://packagist.org/packages/r90/ffcurrencytest
